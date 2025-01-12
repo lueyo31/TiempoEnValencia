@@ -5,7 +5,7 @@ on:
     - cron: '*/60 * * * *'  # Run every minute
 
 jobs:
-  update-readme:
+  update-time:
     runs-on: ubuntu-22.04
     steps:
     - name: Check out repo
@@ -29,5 +29,5 @@ jobs:
         git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git commit -am "Update README" || exit 0
+        git commit -am "Fetch Valencia time" || exit 0
         git push
