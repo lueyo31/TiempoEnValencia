@@ -2,7 +2,7 @@ name: Fetch Valencia time
 
 on:
   schedule:
-    - cron: '*/60 * * * *'  # Run every minute
+    - cron: '0 * * * *'  # Runs at the start of every hour
 
 permissions:
   contents: write
