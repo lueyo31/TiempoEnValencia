@@ -2,11 +2,11 @@ name: Fetch Valencia time
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Run every 40 minutes
+    - cron: '*/1 * * * *'  # Run every minute
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
