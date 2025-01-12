@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '*/60 * * * *'  # Run every minute
 
+permissions:
+  contents: write
+
 jobs:
   update-time:
     runs-on: ubuntu-22.04
