@@ -2,7 +2,7 @@ name: Fetch Valencia time
 
 on:
   schedule:
-    - cron: '*/60 * * * *'  # Run every 40 minutes
+    - cron: '*/1 * * * *'  # Run every 40 minutes
 
 jobs:
   update-readme:
