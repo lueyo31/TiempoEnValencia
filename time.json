@@ -13,10 +13,10 @@
         "wind_speed_10m": "km/h"
     },
     "current": {
-        "time": "2025-03-08T14:00",
+        "time": "2025-03-08T15:00",
         "interval": 900,
-        "temperature_2m": 15.7,
-        "wind_speed_10m": 17.9
+        "temperature_2m": 15.4,
+        "wind_speed_10m": 16.1
     },
     "hourly_units": {
         "time": "iso8601",
