@@ -1,7 +1,7 @@
 {
     "latitude": 39.5,
     "longitude": -0.375,
-    "generationtime_ms": 11.260628700256348,
+    "generationtime_ms": 0.0890493392944336,
     "utc_offset_seconds": 0,
     "timezone": "GMT",
     "timezone_abbreviation": "GMT",
@@ -13,10 +13,10 @@
         "wind_speed_10m": "km/h"
     },
     "current": {
-        "time": "2025-06-27T10:00",
+        "time": "2025-06-27T11:00",
         "interval": 900,
-        "temperature_2m": 31.9,
-        "wind_speed_10m": 6.8
+        "temperature_2m": 32.5,
+        "wind_speed_10m": 11.5
     },
     "hourly_units": {
         "time": "iso8601",
