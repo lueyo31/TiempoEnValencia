@@ -1,7 +1,7 @@
 {
     "latitude": 39.5,
     "longitude": -0.375,
-    "generationtime_ms": 0.2409219741821289,
+    "generationtime_ms": 0.13244152069091797,
     "utc_offset_seconds": 0,
     "timezone": "GMT",
     "timezone_abbreviation": "GMT",
@@ -13,10 +13,10 @@
         "wind_speed_10m": "km/h"
     },
     "current": {
-        "time": "2026-04-21T10:00",
+        "time": "2026-04-21T11:45",
         "interval": 900,
-        "temperature_2m": 20.2,
-        "wind_speed_10m": 7.6
+        "temperature_2m": 20.9,
+        "wind_speed_10m": 10.5
     },
     "hourly_units": {
         "time": "iso8601",
@@ -320,9 +320,9 @@
             12.9,
             12.4,
             12.1,
-            11.9,
-            11.7,
-            12.0,
+            11.4,
+            10.8,
+            10.3,
             14.2,
             17.2,
             19.7,
@@ -660,9 +660,9 @@
             3.4,
             3.4,
             3.4,
-            3.3,
-            3.6,
-            3.7,
+            3.5,
+            3.4,
+            3.8,
             2.4,
             0.8,
             2.9,
